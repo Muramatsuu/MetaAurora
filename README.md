@@ -55,14 +55,14 @@ The following configuration parameters are available:
 
 Contributions to MetaAurora are welcome and appreciated! We value community input and encourage developers to help improve this project.
 
-## # How to Contribute
+##  How to Contribute
 
 1. Fork the MetaAurora repository.
 2. Create a new branch for your feature or fix.
 3. Implement your changes, ensuring they adhere to the project's coding standards and guidelines.
 4. Submit a pull request, providing a detailed description of your changes.
 
-## # Development Guidelines
+##  Development Guidelines
 
 * Follow the existing code style and formatting conventions
 * Write comprehensive tests for new features
